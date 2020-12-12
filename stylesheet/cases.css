@@ -1,0 +1,39 @@
+.cases-hero {
+    background-image: url("../assets/hero/cases_hero.jpg");
+}
+
+.case-studies {
+    padding: 120px 0;
+    background-color: #f8fafe;
+}
+
+.case-item {
+    width: 30%;
+    position: relative;
+    margin: 20px 0;
+}
+
+.case-img {
+    width: 100%;
+}
+
+.case-desc {
+    background-color: white;
+    position: absolute;
+    bottom: 0;
+    width: 80%;
+    padding: 0 10px;
+}
+
+.case-desc h3 {
+    font-size: 16px;
+    font-weight: 700;
+    margin-top: 10px;
+}
+
+.case-desc p {
+    margin: 10px 0;
+    color: #737d86;
+    font-size: 12px;
+    font-weight: 500;
+}
